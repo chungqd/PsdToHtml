@@ -1,0 +1,17 @@
+* {
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.company-name {
+    font-weight: 600;
+    color: #000255;
+}
+
+.slogan {
+    color: #999999;
+}
+
+.header-page {
+    padding: 20px 0;
+    border: 1px solid #ffff11;
+}
